@@ -1,5 +1,9 @@
 This is a test file
 I need more lines
+red
+orange 
+yellow
+green
 edit
 edit2
 this is a new branch
