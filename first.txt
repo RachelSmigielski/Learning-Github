@@ -3,6 +3,7 @@ I need more lines
 orange 
 yellow
 Blue
+blue
 We love Mars. Go there.
 edit
 edit2
